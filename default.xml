@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="ssh://git@github.com/" review="github.com"/>
+  <default revision="main" remote="github" sync-j="4"/>
+  
+  <project name="BoseCorp/willow_flutter_playground" path="willow_flutter_playground" />
+  <project name="WeiZhang-Bose/bose_mobile_bmap_flutter" path="bose_mobile_bmap_flutter" />
+  <project name="WeiZhang-Bose/eiffel_flutter" path="eiffel_flutter" />
+  <project name="WeiZhang-Bose/bose_mobile_utilities" path="bose_mobile_utilities" />
+</manifest>
